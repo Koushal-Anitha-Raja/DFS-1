@@ -1,3 +1,6 @@
+#Time_Complexity: O(n)
+#Space_Complexity: Recursive stack - O(n)
+
 """
 # Definition for Employee.
 class Employee:
